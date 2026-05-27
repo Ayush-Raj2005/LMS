@@ -445,7 +445,7 @@ footer {
     gap: 15px;
 }
 
-/* Buttons (reuse .btn but override color) */
+
 .admission .btn {
     background-color: white;
     color: blue;
